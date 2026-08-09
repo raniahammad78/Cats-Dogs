@@ -2,7 +2,7 @@
 
 > A deep learning project comparing ANN and CNN architectures for binary image classification — distinguishing cats from dogs — with full preprocessing, training, and evaluation pipelines.
 
-**Status:** 🌐 Public repository — [view on GitHub](https://github.com/raniahammad78/Cats-Dogs)
+**Status:** 🌐 Public repository
 
 ## Overview
 
